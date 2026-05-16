@@ -48,9 +48,39 @@ You can check some sample timelapses [here](sample_timelapses/)
   - 2 colors of generic PETG (you can use only one color, but this will be less stylish!)
   - Some translucent PETG, for the leds of the R-Pi to be visible
   - A bit of black TPU, for the cable pass-through
-- Some velcro stickers to fix the parts of the case together 
+- Some velcro stickers to fix the parts of the case together
+- A kodak female 1/4" insert
 
 ## The case
 
-![3D case](3d_parts/screenshot1.png)
+![3D case](pictures/resized/3d_parts.jpg)
+
+If you have a Bambulab printer, the [project file](BMSO All Sky Cam.3mf) is for you. Else, you have all the parts file in the STL format [here](3D_parts)
+
+Print all the parts, and glu the adapter into the whole of the top:
+
+![](pictures/resized/PXL_20251212_124815662.jpg)
+![](pictures/resized/PXL_20251212_125240953.jpg)
+
+Make the insert be hot and insert it into the back hole:
+
+![](pictures/resized/PXL_20251206_094345011.jpg)
+
+## The Fan
+
+TBC...
+
+## The Dew heater
+
+TBC...
+
+## The humidity sensor
+
+TBC...
+
+## The software stack
+
+TBC...
+
+
 
