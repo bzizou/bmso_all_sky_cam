@@ -81,11 +81,31 @@ Here's the circuit to connect the FAN to a PWM pin of the raspberry. Indi-allsky
 
 ## The Dew heater
 
-TBC...
+The dew heater is composed of 8 resitors and a power circuit to deliver up to 2W throught the resistors. The regulation is made with a PWM pin of the respberry pi. The indi-all sky software has options to control this regulator in function of the calculated dew point with values from the humidity and temperature sensor. For better accuracy of the dew point calculation, I recommend the installation of the fan, as it helps the humidity sensor to measure the humidity of the outside air (and not the air from the inside of the case, which is not at the same temperature/humidity because of the heating provided by the Raspberry-Pi)
+
+You have to weld the resistors in parallel using stripped wires and passing them throught the support:
+
+![](pictures/resized/PXL_20260118_111121961.jpg)
+![](pictures/resized/PXL_20260118_111130696.jpg)
+
+Then, glue the 2 parts of the heater together:
+
+![](pictures/resized/PXL_20260118_111421671.jpg)
+
+Build the regulation circuit:
+
+![](circuits/PWM_heater.png)
+![](circuits/PWM_heater_sample_veroboard.jpeg)
+
+And connect it to the raspberry. Don't forget to add a dissipator to the BD139 transistor, or it will heat too much. Fix the circuit near the inlet grid so that you can see the RED led lighting when the heater is on.
 
 ## The humidity sensor
 
 TBC...
+
+## All together, in the inside
+
+![](pictures/resized/PXL_20260118_172644047.jpg)
 
 ## The software stack
 
