@@ -1,4 +1,4 @@
-# BMSO All sky DIY camera
+# BMSO All-sky DIY camera
 
 ![Picture of BMSO all-sky cam](pictures/resized/PXL_20251212_172710690.jpg) ![Screenshot2](pictures/resized/screenshot2.png) 
 
