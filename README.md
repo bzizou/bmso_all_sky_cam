@@ -17,6 +17,10 @@ The power supply is a simple USB cable. I use a 27000 mAh USB power tank and it 
 
 You can check some sample timelapses [here](sample_timelapses/)
 
+## Needed skills
+
+This Readme assumes you're a bit familiar with DIY projects involving 3d printing, Paspberry-Pi OS (Linux) usage, GPIO pins usage and minimal electronic circuits and components knowledge. This small doc is not very exhaustive, but you're encouraged to check the files into the subdirectories of the project. The pictures should help and dont't hesitate to create an issue if you need some informations.
+
 ## List of supplies
 
 - [ZWO ASI 224MC](https://www.zwoastro.com/product/zwo-asi224mc/) camera or any [Indi](https://drivers.indilib.org/cameras/) compatible device. As any astronomy camera, the more sensible the best. Avoid too small sensors as it will reduce the field of view.
