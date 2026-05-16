@@ -72,7 +72,12 @@ TBC...
 
 ## The Fan
 
-TBC...
+Fix the fan on the outside grid near the raspberry with some little screws, or glue it.
+
+Here's the circuit to connect the FAN to a PWM pin of the raspberry. Indi-allsky has all the necessary options to set it up later.
+
+![](circuits/fan_pwm_adtapter.png)
+![](circuits/fan_pwm_adapter_sample_veroboard.png)
 
 ## The Dew heater
 
