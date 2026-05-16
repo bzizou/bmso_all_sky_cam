@@ -57,14 +57,18 @@ You can check some sample timelapses [here](sample_timelapses/)
 
 If you have a Bambulab printer, the [project file](BMSO All Sky Cam.3mf) is for you. Else, you have all the parts file in the STL format [here](3D_parts)
 
-Print all the parts, and glu the adapter into the whole of the top:
+Print all the parts, and glu the adapter into the whole of the water proof cover with silicon.
 
 ![](pictures/resized/PXL_20251212_124815662.jpg)
 ![](pictures/resized/PXL_20251212_125240953.jpg)
 
-Make the insert be hot and insert it into the back hole:
+Hot the insert with a lighter and insert it into the back hole:
 
 ![](pictures/resized/PXL_20251206_094345011.jpg)
+
+## Camera and Raspberry-pi installation
+
+TBC...
 
 ## The Fan
 
